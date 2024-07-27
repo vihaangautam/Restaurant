@@ -1,0 +1,4 @@
+Pizza,5.0,4
+Burger,6.0,5
+pesto,51.0,10
+pasta,390.0,10
